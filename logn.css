@@ -13,7 +13,7 @@ body{
   opacity: 0.9;
   padding-right: 11%;
   width: 50%;
-  height: 50%;
+  height: 80%;
 }
 .sec{
   text-align: center;
@@ -41,37 +41,42 @@ body{
 }
 .tt{
   color: rgb(0, 87, 180);
-  font-size: 200%;
+  font-size: 150%;
   padding-bottom: 0.001%;
 }
 .bw{
   color: rgb(0, 87, 180);
-  font-size: 300%;
+  font-size: 250%;
   padding-top: 0.001%;
 }
 .ls{
 color: rgb(0, 87, 180);
-font-size: 150%;
+font-size: 100%;
 }
 .log{
   background-color: rgb(0, 87, 180);
   border: none;
   margin-top: 5%;
-  margin-left: 39.5%;
-  height: 180%;
-  padding: 4%;
+  height: 100%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 2%;
+  padding-right: 2%;
   color: white;
-  width: 20%;
+  width: 25%;
   font-weight: bold; 
   font-size: 120%;
-  border-radius: 30%;
+  border-radius: 35%;
   cursor: pointer;
+  text-align: center;
+}
+.seci{
+text-align: center;
 }
 .log:hover{
   box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.18);
   transition: box-shadow, 0.15s;
-  
-}
+  }
 ,log:active{
   background-color: white;
   color: rgb(0, 87, 180);
