@@ -1,0 +1,23 @@
+body{
+  background-color: );
+}
+.hed{
+  margin-bottom: 30%;
+  background-color: rgb(0, 87, 180);
+}
+.mn{
+  margin: auto;
+  background-color: white;
+}
+.ft{
+  margin-top: 20%;
+  background-color: rgb(0, 87, 180);
+}
+.ft>for{
+  float: right;
+  padding-left: 10%;
+}
+.navmenu>ul>li{
+  display: inline-block;
+  list-style-type: none;
+}
