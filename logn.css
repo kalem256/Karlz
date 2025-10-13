@@ -41,6 +41,7 @@ body{
   opacity: 0.4;
 }
 .tt{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: rgb(0, 87, 180);
   font-size: 150%;
   padding-bottom: 0.001%;
